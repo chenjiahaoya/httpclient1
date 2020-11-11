@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="httpclient(failed)">
+    <classes>
+      <class name="com.mytest.httpclient.test.M.RequireWorkTable">
+        <methods>
+          <include name="getAssessSum"/>
+          <include name="getLastRecent"/>
+          <include name="getRequirementSum"/>
+          <include name="setUp"/>
+          <include name="getWorkInfo"/>
+        </methods>
+      </class> <!-- com.mytest.httpclient.test.M.RequireWorkTable -->
+    </classes>
+  </test> <!-- httpclient(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

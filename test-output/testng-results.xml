@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="1206" started-at="2020-11-11T09:12:16 CST" finished-at="2020-11-11T09:12:18 CST">
+    <groups>
+    </groups>
+    <test name="httpclient" duration-ms="1206" started-at="2020-11-11T09:12:16 CST" finished-at="2020-11-11T09:12:18 CST">
+      <class name="com.mytest.httpclient.test.M.RequireWorkTable">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mytest.httpclient.test.M.RequireWorkTable@51081592]" name="setUp" is-config="true" duration-ms="8" started-at="2020-11-11T09:12:16 CST" finished-at="2020-11-11T09:12:16 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dynamicInfo()[pri:0, instance:com.mytest.httpclient.test.M.RequireWorkTable@51081592]" name="dynamicInfo" duration-ms="633" started-at="2020-11-11T09:12:16 CST" finished-at="2020-11-11T09:12:17 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicInfo -->
+        <test-method status="PASS" signature="getAssessSum()[pri:0, instance:com.mytest.httpclient.test.M.RequireWorkTable@51081592]" name="getAssessSum" duration-ms="120" started-at="2020-11-11T09:12:17 CST" finished-at="2020-11-11T09:12:17 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAssessSum -->
+        <test-method status="PASS" signature="getLastRecent()[pri:0, instance:com.mytest.httpclient.test.M.RequireWorkTable@51081592]" name="getLastRecent" duration-ms="54" started-at="2020-11-11T09:12:17 CST" finished-at="2020-11-11T09:12:17 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLastRecent -->
+        <test-method status="PASS" signature="getRequirementSum()[pri:0, instance:com.mytest.httpclient.test.M.RequireWorkTable@51081592]" name="getRequirementSum" duration-ms="202" started-at="2020-11-11T09:12:17 CST" finished-at="2020-11-11T09:12:17 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequirementSum -->
+        <test-method status="PASS" signature="getWorkInfo()[pri:0, instance:com.mytest.httpclient.test.M.RequireWorkTable@51081592]" name="getWorkInfo" duration-ms="168" started-at="2020-11-11T09:12:17 CST" finished-at="2020-11-11T09:12:18 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWorkInfo -->
+      </class> <!-- com.mytest.httpclient.test.M.RequireWorkTable -->
+    </test> <!-- httpclient -->
+  </suite> <!-- Default Suite -->
+</testng-results>
